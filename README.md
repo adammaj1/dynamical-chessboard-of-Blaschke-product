@@ -4,16 +4,39 @@ B3(z) = ((z+1/2)/(z/2+1))^3
 
 It is inspired by second version of the paper ["PARABOLIC AND NEAR-PARABOLIC RENORMALIZATION FOR LOCAL DEGREE THREE" by FEI YANG](https://arxiv.org/pdf/1510.00043v2.pdf),  
 
-Here is origanal image extracted from the paper, see Figure 14 from page 52.: " the first column indicate the dynamical chessboards of f and B3" 
+Here is original image extracted from the paper, see Figure 14 from page 52.: " the first column indicate the dynamical chessboards of f and B3" 
 
 ![](./png/35.png "original image") 
 
 
+Here is my image, it looks like 1/3 of original image:
 
-Discussion
+![](./png/IBD_LCM.png "my image") 
+
+
+# Analysis
+* critical point:  only one point z=-1/2
+* poles: z = -2 (order 3 pole)
+* zeros: z = -1/2 (order 3 zero)
+
+
+# Discussion
 * [math.stackexchange question: julia-set-of-finite-blaschke-product](https://math.stackexchange.com/questions/4448405/julia-set-of-finite-blaschke-product)
 * [fractalforums.org: critical-points-of](https://fractalforums.org/fractal-mathematics-and-new-theories/28/critical-points-of/4753)
 
+
+# Source code
+Program: 
+* [j.c](./src/j.c ) - c console program
+* [j.sh](./src/j.sh ) - bash script
+* [Makefile](./src/Makefile) - Makefile
+
+Run: simply make from console
+
+
+Output: 
+* [png images](./png/) 
+* [j.txt](./src/j.txt ) - text output
 
 
 
