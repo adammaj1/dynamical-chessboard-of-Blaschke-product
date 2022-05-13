@@ -15,6 +15,9 @@ Here is my image, it looks like 1/3 of original image:
 
 
 # Analysis
+* B3 is a Blaschke product whose Julia set is the unit circle
+* The point z = 1 is a 1-parabolic fixed point with two attracting petals
+* the unit disk D and C∖D are two immediate basins of 1
 * critical point:  only one point z=-1/2
 * poles: z = -2 (order 3 pole)
 * zeros: z = -1/2 (order 3 zero)
@@ -23,6 +26,9 @@ Here is my image, it looks like 1/3 of original image:
 # Discussion
 * [math.stackexchange question: julia-set-of-finite-blaschke-product](https://math.stackexchange.com/questions/4448405/julia-set-of-finite-blaschke-product)
 * [fractalforums.org: critical-points-of](https://fractalforums.org/fractal-mathematics-and-new-theories/28/critical-points-of/4753)
+
+
+# Algorithm
 
 
 # Source code
@@ -37,6 +43,57 @@ Run: simply make from console
 Output: 
 * [png images](./png/) 
 * [j.txt](./src/j.txt ) - text output
+
+
+
+# other images
+
+![](./png/FatouBasins_LCM.png)  
+
+![](./png/FatouBasins_LSCM.png)  
+
+![](./png/FatouBasins_LSCM_trap.png)  
+![](./png/IBD.png)  
+
+![](./png/IBD_LSCM.png)  
+
+![](./png/IBD_LSM_LCM.png)  
+
+![](./png/IBD_LSM_LSCM.png)  
+
+![](./png/LCM.png)  
+
+![](./png/LS2CM.png)  
+
+![](./png/LS2CM_cr.png)
+   
+![](./png/LS2M.png)  
+
+![](./png/LSCM.png)  
+
+![](./png/LSM.png)  
+
+![](./png/MBD.png)  
+
+![](./png/MBD_LCM.png  )  
+
+![](./png/MBD_LSCM.png)   
+
+![](./png/MBD_LSM_LCM.png) 
+
+![](./png/MBD_LSM_LSCM.png) 
+
+![](./png/ParabolicCheckerboard2_LCM.png) 
+
+![](./png/ParabolicCheckerboard2_LSCM2.png) 
+
+![](./png/ParabolicCheckerboard2_LSM.png) 
+
+![](./png/ParabolicCheckerboard_LSCM.png)  
+
+![](./png/ParabolicCheckerboard_LSM.png)
+
+
 
 
 
