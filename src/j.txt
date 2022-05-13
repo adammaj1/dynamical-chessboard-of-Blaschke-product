@@ -1,0 +1,47 @@
+ Tuned AR = 
+File FatouBasins.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c FatouBasins  
+File FatouBasins_LCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c FatouBasins_LCM  
+File FatouBasins_LSCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c FatouBasins_LSCM 
+File FatouBasins_LSCM_trap.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c FatouBasins_LSCM_trap 
+File LSM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c LSM 
+File LCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c LCM  
+File LSCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c LSCM 
+File LS2M.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c LS2M 
+File LS2CM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c LS2CM 
+draw forward orbit 
+first point of the orbit z0= -0.5000000000000000 +0.0000000000000000*I 
+last point of the orbit z= 0.9211176875454721 +0.0000000000000000*I 
+File LS2CM_cr.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c LS2CM_cr 
+File MBD.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c MBD 
+File MBD_LCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c MBD_LCM  
+File MBD_LSCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c MBD_LSCM 
+File MBD_LSM_LCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c MBD_LSM_LCM  
+File MBD_LSM_LSCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c MBD_LSM_LSCM 
+File IBD.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c IBD 
+File IBD_LCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c IBD_LCM  
+File IBD_LSCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c IBD_LSCM 
+File IBD_LSM_LCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c IBD_LSM_LCM  
+File IBD_LSM_LSCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c IBD_LSM_LSCM 
+File ParabolicCheckerboard_LSM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c ParabolicCheckerboard_LSM 
+File ParabolicCheckerboard_LSCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c ParabolicCheckerboard_LSCM 
+File ParabolicCheckerboard2_LSM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c ParabolicCheckerboard2_LSM 
+File ParabolicCheckerboard2_LCM.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c ParabolicCheckerboard2_LCM  
+File ParabolicCheckerboard2_LSCM2.pgm saved . Comment = Numerical approximation of Julia set for f(z)= z^2 + c ParabolicCheckerboard2_LSCM2 
+Numerical approximation of dynamic plane with Julia set for f(z)= z^3 + c  
+c =  0.3849001794597505 +0.0000000000000000*i  is the parabolic parameter with internal angle 0
+critical point zcr =  -0.5000000000000000 +0.0000000000000000*i 
+Image Width = 3.000000 in world coordinate
+PixelWidth = 0.0015007503751876 
+plane description 
+plane center z =  0.0000000000000000 +0.0000000000000000*i  and radius = 1.5000000000000000 
+Maximal number of iterations = iterMax = 1000 
+ratio of image  = 1.000000 ; it should be 1.000 ...
+sizes of traps around attractors 
+Escaping Radius = ER = 200.0000000000000000 = 133266.666667 *PixelWidth = 134.833333 % of ImageWidth 
+trap center z =  0.8857737429215309 +0.0000000000000000*i  and radius = 0.1142262570784692 
+Atracting Radius = AR = 0.1142262570784692 = 76.112763 *PixelWidth = 1.576151 % of ImageWidth 
+periodic cycle = parabolic fixed point z =  1.0000000000000000 +0.0000000000000000*i 
+gcc version: 11.2.0
+__STDC__ = 1
+__STDC_VERSION__ = 201710
+c dialect = C18
