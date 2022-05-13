@@ -2,9 +2,11 @@ The dynamical chessboard of finite Blaschke-product
 
 B3(z) = ((z+1/2)/(z/2+1))^3
 
-It is inspired by second version of the paper ["PARABOLIC AND NEAR-PARABOLIC RENORMALIZATION FOR LOCAL DEGREE THREE" by FEI YANG](https://arxiv.org/pdf/1510.00043v2.pdf), see Figure 14 from page 52
+It is inspired by second version of the paper ["PARABOLIC AND NEAR-PARABOLIC RENORMALIZATION FOR LOCAL DEGREE THREE" by FEI YANG](https://arxiv.org/pdf/1510.00043v2.pdf), see Figure 14 from page 52. 
 
-![](./png/52.png "original image") 
+Here is origan image extracted from the paper: 
+
+![](./png/35.png "original image") 
 
 # Git
 
